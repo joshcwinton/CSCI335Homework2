@@ -1,0 +1,6 @@
+*.o
+query_tree
+test_tree
+test_tree_mod
+.DS_Store
+.vscode/settings.json
